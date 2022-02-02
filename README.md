@@ -1,10 +1,10 @@
 # Uber_analysis
 
-# plots used
+## plots used
 1. Count plot
 2. subplots
 
-# Libraries
+## Libraries
 1. Numpy
 2. pandas
 3. pyplot
